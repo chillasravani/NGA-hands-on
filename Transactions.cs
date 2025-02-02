@@ -220,37 +220,7 @@ namespace CsharpTraining_Jan2725
 
 }
     
-    /*
-     * File handling
-     * 
-     * 1. file create
-     * 2. file open
-     * 3. read/write open
-     * 4. file close
-     * 
-     * namespace: System.IO
-     * 
-     * 1. FileStream
-     * 2. StreamWriter
-     * 3. StreamReader
-     * 4. File
-     * 5. Directory
-     * 6. TextReader
-     * 7. BinaryReader
-     * 8. StringReader
-     * 
-     * string a="welcme training bangare/Chennai";
-     * welcme training bangare-[0]
-     * Chennai-[1]
-     * a.split('/')
-     * 
-     * 12/12/2025 12:20:12 AM
-     * 
-     * split(' ')
-     * 12/12/2025
-     * 12:20:12
-     * AM
-     */
-
+    
+     
 
 
