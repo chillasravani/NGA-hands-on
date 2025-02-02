@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-/*mespace ConsoleApp1_NGA
+mespace ConsoleApp1_NGA
 {
     internal class SecondLargestElement
     {
@@ -50,4 +50,4 @@ using System.Threading.Tasks;
         }
         
     }
-}*/
+}
